@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-The so_long project at 42 School is a game development project that involves creating a simple 2D game using the MinilibX graphical library. The objective is to build a game where a player navigates through a map, collects items, and reaches a goal while avoiding obstacles.
+The so_long project is a game development project that involves creating a simple 2D game using the MinilibX graphical library. The objective is to build a game where a player navigates through a map, collects items, and reaches a goal while avoiding obstacles.
 
 ### Key Objectives
 
