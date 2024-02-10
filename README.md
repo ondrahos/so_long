@@ -2,27 +2,25 @@
 
 ### Project Overview
 
-The so_long project is a game development project that involves creating a simple 2D game using the MLX42 graphical library. The objective is to build a game where a player navigates through a map, collects items, and reaches a goal while avoiding obstacles.
+The so_long project is a game development project that involves creating a simple 2D game using the MLX42 graphical library. The objective is to build a game where a player navigates through a map, collects items, and reaches a goal.
 
 ### Key Objectives
 
 - Implement basic game mechanics such as player movement, item collection, and collision detection.
-- Utilize the MinilibX library to handle graphics, window management, and user inputs.
-- Design and render a visually appealing game environment using sprites and textures.
+- Utilize the MLX42 library to handle graphics, window management, and user inputs.
+- Design and render a visually appealing game environment using textures.
 - Ensure game functionality is robust and bug-free through thorough testing and debugging.
 
 ### Core Features
 
 1. **Game Mechanics:**
    - Player movement controls (up, down, left, right).
-   - Collision detection with walls and obstacles.
+   - Collision detection with walls.
    - Collectible item placement and collection.
-   - Game state transitions (start screen, in-game, game over, victory).
 
 2. **Graphics and Rendering:**
-   - Rendering the game world with textures and sprites.
-   - Displaying player character, items, obstacles, and other elements.
-   - Implementing animations and visual effects to enhance gameplay experience.
+   - Rendering the game world with textures.
+   - Displaying player character, items, walls and other elements.
 
 3. **Input Handling:**
    - Capturing user inputs for controlling the player character.
@@ -44,4 +42,4 @@ The so_long project is a game development project that involves creating a simpl
 
 ### Conclusion
 
-The so_long project offers an exciting opportunity to explore game development concepts and hone programming skills in a fun and interactive way. By completing this project, students at 42 School gain valuable experience in building games from scratch and lay the foundation for further exploration in the field of game development.
+The so_long project offers an exciting opportunity to explore game development concepts and hone programming skills in a fun and interactive way. By completing this project, students gain valuable experience in building games from scratch and lay the foundation for further exploration in the field of game development.
